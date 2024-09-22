@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a passionate __Fullstack developer__ currently pursuing my **master's degree** in **Software Engineering**. My journey began in 2023 with the <a href="https://goit.global/ph/">GoIT</a> course, a year-long experience where I explored various technologies, met amazing people, and built exciting projects. Now that I've successfully completed this course, I'm excited to continue my path toward my **dream job**! ✨</p>
+<p align="left">I'm a passionate **Fullstack developer** currently pursuing my **master's degree** in **Software Engineering**. My journey began in 2023 with the <a href="https://goit.global/ph/">GoIT</a> course, a year-long experience where I explored various technologies, met amazing people, and built exciting projects. Now that I've successfully completed this course, I'm excited to continue my path toward my **dream job**! ✨</p>
 
 ###
 
